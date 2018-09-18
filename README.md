@@ -1,2 +1,2 @@
 # bank_management
-management system for clients and transactions for a bank
+Management system for clients and accounts for a bank. The accounts can be either saving or spending type.
